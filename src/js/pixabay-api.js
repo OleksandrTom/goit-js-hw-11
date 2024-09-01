@@ -20,3 +20,4 @@ export function getPictures(query) {
     return response.json();
   });
 }
+
